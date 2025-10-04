@@ -2,7 +2,7 @@
 <h1 align="center" style="font-weight: bold;">Full-Stack Trip Planner Web App</h1>
 
 <p align="center">
-<a href="#tech">Technologies |</a>
+<a href="#technologies">Technologies |</a>
 <a href="#features">Features |</a>
 <a href="#layout">Layout |</a>
 <a href="#pre">Prerequisites</a>
@@ -44,22 +44,22 @@
 
 <p>
 Home Page:
-<img src="https://github.com/barika001/ai-trip-planner/blob/main/public/asset/1.1.png" alt="">
+<img src="https://github.com/theankitgangwar/IntelliTrip/blob/main/public/asset/1.1.png" alt="">
 
 Google OAuth Sign in:
-  <img src="https://github.com/barika001/ai-trip-planner/blob/main/public/asset/2.png" alt="">
+  <img src="https://github.com/theankitgangwar/IntelliTrip/blob/main/public/asset/2.png" alt="">
   
 Create Trip Page:
-<img src="https://github.com/barika001/ai-trip-planner/blob/main/public/asset/4.4.png" alt="">
+<img src="https://github.com/theankitgangwar/IntelliTrip/blob/main/public/asset/4.4.png" alt="">
 
 View Trip Page: AI-generated Hotel Recommendations & Places to Visit
-<img src="https://github.com/barika001/ai-trip-planner/blob/main/public/asset/7.png" alt="" width="75%" align="center">
+<img src="https://github.com/theankitgangwar/IntelliTrip/blob/main/public/asset/7.png" alt="" width="75%" align="center">
 
 My Trips Page:
-<img src="https://github.com/barika001/ai-trip-planner/blob/main/public/asset/6.png" alt="">
+<img src="https://github.com/theankitgangwar/IntelliTrip/blob/main/public/asset/6.png" alt="">
 
 Responsive view on mobile: <br>
-<img src="https://github.com/barika001/ai-trip-planner/blob/main/public/asset/8.jpg" alt="" width="30%" align="center">
+<img src="https://github.com/theankitgangwar/IntelliTrip/blob/main/public/asset/8.jpg" alt="" width="30%" align="center">
 </p>
  
 
