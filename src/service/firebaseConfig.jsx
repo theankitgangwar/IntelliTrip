@@ -7,7 +7,7 @@ import { getFirestore } from "firebase/firestore";
 // Your web app's Firebase configuration
 // For Firebase JS SDK v7.20.0 and later, measurementId is optional
 const firebaseConfig = {
-  apiKey: "AIzaSyBFNHjshd9gM31smaK27hAqbNojDmgpJ1Y",
+  apiKey: import.meta.env.FIREBASE_CONFIG,
   authDomain: "aitrip-77811.firebaseapp.com",
   projectId: "aitrip-77811",
   storageBucket: "aitrip-77811.firebasestorage.app",
@@ -15,7 +15,7 @@ const firebaseConfig = {
   appId: "1:118665343481:web:013e8ce7e606d2e19fcd28",
   measurementId: "G-RVKXBDFDMW"
 };
-
+  
 // Initialize Firebase
 export const app = initializeApp(firebaseConfig);
 export const db = getFirestore(app);

@@ -9,7 +9,7 @@
  
 </p>
 
-<p align="center">A full-stack web application that helps users plan their trips by providing AI-powered recommendations for travel itineraries, places to visit, and hotels. This app integrates Google Generative AI for dynamic travel planning, Firebase for data storage, and Google Places API for fetching detailed information about places and hotels. </p>
+<p align="center">A full-stack web application that thelps users plan their trips by providing AI-powered recommendations for travel itineraries, places to visit, and hotels. This app integrates Google Generative AI for dynamic travel planning, Firebase for data storage, and Google Maps Places API via RapidAPI for fetching detailed information about places and hotels. </p>
 
 
 <h3 align="center">
@@ -26,14 +26,14 @@
 
 <b><em>Backend & Services:</b></em>
 - Google Generative AI API: For generating AI-powered travel recommendations and itineraries.
-- Google Places API: For retrieving detailed information about places, hotels, and their photos.
+- Google Maps Places API via RapidAPI: For retrieving detailed information about places, hotels, and their photos.
 - Firebase Firestore: For storing and managing user trip data.
 - Firebase Authentication: For handling user authentication via Google OAuth.
 
 <br><h2 id="features">🚀 Features</h2>
 
 - AI-Powered Travel Plans: Generate personalized travel itineraries and hotel recommendations using Google Generative AI.
-- Dynamic Place Information: Retrieve and display detailed information and photos of places and hotels using Google Places API.
+- Dynamic Place Information: Retrieve and display detailed information and photos of places and hotels using Google Maps Places API via RapidAPI
 - User Authentication: Secure user login and authentication with Google OAuth.
 - Interactive UI: User-friendly and responsive interface designed with TailwindCSS.
 - Data Storage: Persistent storage of user trip data in Firebase Firestore.
@@ -67,4 +67,4 @@ Responsive view on mobile: <br>
 
 - Node.js & npm
 - Firebase Project: Set up a Firebase project and configure Firestore and Authentication. Obtain your Firebase configuration keys.
-- Google API Keys: Obtain API keys for Google Generative AI and Google Places API.
+- Google API Keys: Obtain API keys for Google Generative AI.
